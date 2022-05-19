@@ -13,3 +13,6 @@
 - [Blog](https://blog.dergoogler.com/)
 - [iTest](https://itest.dergoogler.com)
 - [Magisk Modules Repo](https://repo.dergoogler.com)
+
+<!-- This will only visible on dergoogler.com -->
+<XHR src="https://raw.githubusercontent.com/DerGoogler/DerGoogler/master/.com-only"/>
