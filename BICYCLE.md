@@ -3,7 +3,7 @@
 Everything documented
 
 ```
-3222.80 km
+3500 km
 ```
 
 ## Brakes
