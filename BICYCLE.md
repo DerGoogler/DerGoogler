@@ -3,8 +3,13 @@
 Everything documented
 
 ```
-3500 km
+3620 km
 ```
+
+## Previous devices
+| Device         | Last km |
+|----------------|---------|
+| Prophete BW020 | 3620 km |
 
 ## Brakes
 
