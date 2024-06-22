@@ -7,9 +7,9 @@ Everything documented
 ```
 
 ## Previous devices
-| Device         | Last km |
+| Device         | km      |
 |----------------|---------|
-| Prophete BW020 | 3620 km |
+| Prophete BW020 | `3620` |
 
 ## Brakes
 
