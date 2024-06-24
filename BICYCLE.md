@@ -6,10 +6,11 @@ Everything documented
 3620 km
 ```
 
-## Previous devices
-| Device         | km     |
-| -------------- | ------ |
-| Prophete BW020 | `3620` |
+## Devices
+| Device                | State      | Total dist in km | Top speed in km/h |
+| --------------------- | ---------- | ---------------- | ----------------- |
+| Walfort Boardcomputer | *Active*   | *present*        | `41.9`            |
+| Prophete BW020        | *Inactive* | `3620`           | `59.9`            |
 
 ## Brakes
 
