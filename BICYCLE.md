@@ -10,7 +10,7 @@ Everything documented
 | Device                | State      | Total dist in km | Top speed in km/h |
 | --------------------- | ---------- | ---------------- | ----------------- |
 | Walfort Boardcomputer | *Active*   | *present*        | `41.9`            |
-| Prophete BW020        | *Inactive* | `3620`           | `59.9`            |
+| Prophete BW020        | *Inactive* | `3620`           | `54.9`            |
 
 ## Brakes
 
