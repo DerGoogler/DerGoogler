@@ -3,7 +3,7 @@
 Everything documented
 
 ```
-3620 km
+3701 km
 ```
 
 ## Devices
@@ -24,8 +24,9 @@ General brake documentation
 
 ### Brake change
 
-| Date | Distance in km | Front | Rear |
-| ---- | -------------- | ----- | ---- |
+| Date       | Distance in km | Front | Rear |
+| ---------- | -------------- | ----- | ---- |
+| 27.06.2024 | `3701`         | Yes   | Yes  |
 
 ## Tires
 
