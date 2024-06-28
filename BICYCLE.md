@@ -2,11 +2,12 @@
 
 Everything documented
 
-```
+```txt
 3701 km
 ```
 
 ## Devices
+
 | Device                | State      | Total dist in km | Top speed in km/h |
 | --------------------- | ---------- | ---------------- | ----------------- |
 | Walfort Boardcomputer | *Active*   | *present*        | `41.9`            |
@@ -18,9 +19,10 @@ General brake documentation
 
 ### Service
 
-| Date | Distance in km | Front | Rear |
-| ---- | -------------- | ----- | ---- |
-| N/A  | `1117.40`      | Yes   | Yes  |
+| Date       | Distance in km | Front | Rear |
+| ---------- | -------------- | ----- | ---- |
+| N/A        | `1117.40`      | Yes   | Yes  |
+| 27.06.2024 | `3701`         | Yes   | Yes  |
 
 ### Brake change
 
@@ -34,32 +36,32 @@ General brake documentation
 | ---------- | -------------- | ----- | ---- |
 | 06.01.2024 | `747`          | Yes   | Yes  |
 
-# Gear
+## Gear
 
 Gears and accessories are documented here
 
-## Chain
+### Chain
 
 | Date       | Distance in km |
 | ---------- | -------------- |
 | 19.02.2024 | `1493.80`      |
 
-## Cassette
+### Cassette
 
 | Date       | Distance in km | Front | Rear |
 | ---------- | -------------- | ----- | ---- |
 | 20.02.2024 | `1493.80`      | No    | Yes  |
 
-# Record's
+## Record's
 
-## Ride's
+### Ride's
 
 | Date       | Distance in km | Time in hours      |
 | ---------- | -------------- | ------------------ |
 | 12.08.2023 | `69`           | *Not really known* |
 | 16.03.2024 | `128`          | `8.5`              |
 
-# Tire size table
+## Tire size table
 
 | Size        | In mm  | Size      | In mm  |
 | ----------- | ------ | --------- | ------ |
@@ -76,4 +78,4 @@ Gears and accessories are documented here
 | 26 x 2.1    | `2133` | 700 x 32C | `2155` |
 | 27.5 x 1.95 | `2167` | 700 x 35C | `2164` |
 | 27.5 x 2.10 | `2192` | 700 x 38C | `2174` |
-| 27.5 x 2.35 | `2229` |
+| 27.5 x 2.35 | `2229` |           |        |
