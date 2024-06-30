@@ -8,10 +8,10 @@ Everything documented
 
 ## Devices
 
-| Device                | State      | Total dist in km | Top speed in km/h |
-| --------------------- | ---------- | ---------------- | ----------------- |
-| Walfort Boardcomputer | *Active*   | *present*        | `41.9`            |
-| Prophete BW020        | *Inactive* | `3620`           | `54.9`            |
+| Device                | State      | Total dist in km | Top speed in downhill km/h | Top speed uphill in km/h | Top speed straight in km/h |
+| --------------------- | ---------- | ---------------- | -------------------------- | ------------------------ | -------------------------- |
+| Walfort Boardcomputer | *Active*   | *present*        | `41.9`                     | `29.7`                   | `35.1`                     |
+| Prophete BW020        | *Inactive* | `3620`           | `54.9`                     | `25.4`                   | `33`                       |
 
 ## Brakes
 
