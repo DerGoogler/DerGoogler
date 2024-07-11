@@ -3,7 +3,7 @@
 Everything documented
 
 ```txt
-3701 km
+3967 km
 ```
 
 ## Devices
