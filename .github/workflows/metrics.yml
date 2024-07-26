@@ -22,13 +22,12 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: DerGoogler
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: detailed
